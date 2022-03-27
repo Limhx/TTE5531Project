@@ -1,0 +1,13 @@
+P_Gender,P_Injury,SpctDrug,Value
+Female,Fatal,No,93
+Female,Fatal,Unknown,61
+Female,Fatal,Yes,20
+Female,Serious,No,333
+Female,Serious,Unknown,38
+Female,Serious,Yes,4
+Male,Fatal,No,198
+Male,Fatal,Unknown,215
+Male,Fatal,Yes,32
+Male,Serious,No,809
+Male,Serious,Unknown,120
+Male,Serious,Yes,7
