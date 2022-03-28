@@ -1,0 +1,20 @@
+P_Type,P_Injury,SpctDrug,Value
+Bicyclist,Fatal,No,62
+Bicyclist,Fatal,Unknown,53
+Bicyclist,Fatal,Yes,4
+Bicyclist,Serious,No,452
+Bicyclist,Serious,Unknown,31
+Bicyclist,Serious,Yes,4
+Occupant of non-motor vehicle transportation device,Serious,No,1
+Other cyclist,Fatal,Yes,1
+Other cyclist,Serious,No,6
+"Other pedestrian (wheelchair, etc)",Fatal,No,7
+"Other pedestrian (wheelchair, etc)",Fatal,Unknown,4
+"Other pedestrian (wheelchair, etc)",Serious,No,27
+"Other pedestrian (wheelchair, etc)",Serious,Unknown,3
+Pedestrian,Fatal,No,222
+Pedestrian,Fatal,Unknown,219
+Pedestrian,Fatal,Yes,47
+Pedestrian,Serious,No,656
+Pedestrian,Serious,Unknown,124
+Pedestrian,Serious,Yes,7
